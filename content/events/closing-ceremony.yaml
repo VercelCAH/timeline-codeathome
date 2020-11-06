@@ -1,7 +1,7 @@
 ---
   slug: closing-ceremony
   name: Closing Ceremony
-  date: "2020-11-11T20:00:00+02:00"
+  date: "2020-11-18T20:00:00+02:00"
   description: |
     In our final event, we will revisit your TechLabs journey during this **#codeathome Bootcamp**. 
 
@@ -13,7 +13,7 @@
   forms: []
   resources:
 
-  - title: "Zoom Meeting"
+  - title: "Google Meet"
     description: Link to the Meeting.
     type: meeting
     url: V53
