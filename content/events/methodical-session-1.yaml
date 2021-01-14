@@ -1,19 +1,20 @@
 ---
   slug: methodical-1
-  name: First Methodical Session
-  date: "2020-09-16T20:00:00+02:00"
+  name: Methodical Session - Ethics in the digital world
+  date: "2021-02-10T20:00:00+02:00"
   description: |
-    This is the first of three Methodical Sessions, which you could join during the #codeathome Bootcamp.
-    This event focus on "Habit Building".
+    Data and technology are omnipresent in today's world. Most of us couldn't even imagine living without a phone or computer anymore. But have you ever thought about what happens with all your data once it is released, or who makes the rules for what is right and wrong in digital spheres?
 
-    *Don't worry if you cannot attend! We will record the session and share it afterwards, you will find it in the **[Media Page](https://codeathome.techlabs.org/media)***
+    In this session on ethics in the digital world, we want to invite you to a discussion on digital ethics, data security, and other related topics. We have also invited some experts on the topic, so stay tuned!
+
+    If you haven´t had time to attend: no worries! We will share the slides after the event.
 
  
   forms: []
   resources:
 
-  - title: "Slides"
-    description: Slides of the event.
-    type: slides
-    url: https://drive.google.com/file/d/1D0yLxSgsgiopouzxUBxuV6Ph0kkRWA4g/view?usp=sharing
+  - title: "Zoom Meet"
+    description: Link to the Meeting.
+    type: meeting
+    url: V53
 

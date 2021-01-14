@@ -1,10 +1,10 @@
 ---
-  - title: Kick-Off
+  - title: Start
     description: |
       You join the community and get access to our learning platform edyoucated.
 
       We present our four tracks, you choose one and create your personal TechLabs journey based on your previous knowledge
-    startWeekNum: 36
+    startWeekNum: 5
     duration: 1
 
   - title: Online Learning
@@ -12,14 +12,23 @@
       You work through your track on edyoucated and become a master of your class.
 
       You will be paired with your TrackStudy-Buddies. We organize remote social events and live sessions every wednesday so that you can connect with fellow Techies, share your insights and work together on difficulties.
-    startWeekNum: 37
-    duration: 4
+    startWeekNum: 6
+    duration: 3
+
+  - title: Project Ideation
+    description: |
+      You learn about methods and tools to come up with project ideas and how to settle on one  project idea as a group.
+      
+       We will also go through the requirements for your upcoming project registration. 
+
+    startWeekNum: 9
+    duration: 1
 
   - title: Project Registration
     description: |
       You team up as a group of 3-5 Techies and register for our #codeathome Project Phase.
 
-    startWeekNum: 41
+    startWeekNum: 10
     duration: 1
 
   - title: Online-Learning + Project
@@ -29,17 +38,17 @@
       
       Experienced mentors will be on your side for support.
       
-    startWeekNum: 42
+    startWeekNum: 11
     duration: 3
 
   - title: Project Submission
     description: |
       You finish up your project and submit the final result to us.
-    startWeekNum: 45
+    startWeekNum: 14
     duration: 1
 
   - title: Closing
     description: |
       We organize a closing ceremony to celebrate your results, afterwards you will be given your #codeathome Bootcamp certificate.
-    startWeekNum: 47
+    startWeekNum: 15
     duration: 1
