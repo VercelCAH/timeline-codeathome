@@ -1,5 +1,5 @@
 ---
-  - title: Kick-Off
+  - title: Start
     description: |
       You join the community and get access to our learning platform edyoucated.
 
@@ -13,7 +13,16 @@
 
       You will be paired with your TrackStudy-Buddies. We organize remote social events and live sessions every wednesday so that you can connect with fellow Techies, share your insights and work together on difficulties.
     startWeekNum: 37
-    duration: 4
+    duration: 3
+
+  - title: Project Ideation
+    description: |
+      You learn about methods and tools to come up with project ideas and how to settle on one  project idea as a group.
+      
+       We will also go through the requirements for your upcoming project registration. 
+
+    startWeekNum: 41
+    duration: 1
 
   - title: Project Registration
     description: |

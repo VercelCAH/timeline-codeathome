@@ -1,9 +1,15 @@
 
 - slug: apply
-  name: "Apply for The second #codeathome bootcamp"
-  date: "2020-08-30T23:59:59+02:00"
+  name: "Application Deadline"
+  date: "2021-01-28T23:59:59+02:00"
   description: |
-    **Aplication closed!**
+    You can apply for the TechLabs #codeathome Bootcamp until 28th February 2021. All you need to do is to complete the application typeform linked below. 
+  todos:
+  - name: Application Form
+    resources:
+      - title: Application Form
+        type: feedback
+        url: https://techlabsorg.typeform.com/to/XVMYjsyV
 
 
 - slug: 25percent
