@@ -1,16 +1,26 @@
 ---
   slug: opening-ceremony
   name: Opening Ceremony
-  date: "2020-09-02T20:00:00+02:00"
+  date: "2021-02-03T20:00:00+02:00"
   description: |
-    In our opening ceremony, you had the chance to meet the #codeathome Bootcamp Team as well as the other Techies.
+    In our live Opening Ceremony, you will have the chance to meet the #codeathome Bootcamp Team as well as the other Techies.
+    
+    We will provide information about the program and about what you can expect from the following 9 weeks.
+     
+    You can also ask all questions you might have.
 
-    We provided information about the program and about what you can expect from the following 9 weeks.
+    Agenda:
 
-    *you can find the recording of the event in the **[Media Page](https://codeathome.techlabs.org/media)***
+    - Introduction
+    - #codeathome Bootcamp Team
+    - #codeathome Journey
+    - Get together and quiz
+
+  Don't worry if you cannot attend! We will record the session and share it afterwards.
   forms: []
   resources:
-    - title: "Slides"
-      description: Slides of the opening ceremony.
-      type: slides
-      url: https://drive.google.com/file/d/1hsoSYX0XSSltnkKdbcwDpa6g-mhFD26-/view?usp=sharing
+
+  - title: "Zoom Meet"
+    description: Link to the Meeting.
+    type: meeting
+    url: NBY

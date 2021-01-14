@@ -1,0 +1,26 @@
+---
+  slug: code-event-1
+  name: Web Dev Coding Event 1 of 2
+  date: "2021-02-17T20:00:00+02:00"
+  description: |
+    Do you want to learn how to apply your new learned WebDev skills and build a personal web page?
+
+    This live Coding Event is the first of two and is open for all WebDev Techies but also for interested Techies from the other tracks! Use this opportunity for a hands-on example from start to finish and learn how to apply your skills step-by-step guided by our experienced mentor. This first session will take around 45 minutes and be followed by a short Q&A for further questions. It will build the foundation for the second live Coding Event. Stay tuned!
+
+    The content of the first event will focus on HTML and CSS. We will cover the following topics: 
+
+    - Basic Structure
+    - Header
+    - Pictures
+    - Color Scheme
+    - Design of a contact form
+
+    
+  forms: []
+  resources: 
+
+  - title: "Zoom Meet"
+    description: Link to the Meeting.
+    type: meeting
+    url: BN9
+
