@@ -1,6 +1,6 @@
 ---
   slug: project-kickoff
-  name: Project Kickoff
+  name: Project Kickoff 
   date: "2020-10-07T20:00:00+02:00"
   description: |
     With this event, we will **officially kick-off the project phase**. 
@@ -16,4 +16,4 @@
     - title: "Slides"
       description: 
       type: slides
-      url:
+      url: BN9
