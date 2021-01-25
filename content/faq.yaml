@@ -3,13 +3,14 @@
   questions:
   - title: Where can I find the courses?
     content: |
-      See #codeathome announcements for the link to our learning platform edyoucated.
-      Our available tracks on edyoucated:
+      See #codeathome announcements or check your email for the link to our learning platform edyoucated.
+      Please select #codeathome Bootcamp as your location and select one of the following tracks on edyoucated:
 
-      - #codeathome Bootcamp | Data Science Python | 2021
-      - #codeathome Bootcamp | AI | 2021
-      - #codeathome Bootcamp | Web Development | 2021
-      - #codeathome Bootcamp | User Experience | 2021
+      - TechLabs | AI | 2020
+      - TechLabs | Data Science Python | 2020
+      - TechLabs | UX | 2020
+      - TechLabs | Web Development | 2020
+      
   - title: Am I supposed to receive a personalized track? Why is there a survey?
     content: |
       For the #codeathome Bootcamp, we don't offer any tailored tracks due to the intense and relatively short learning phase. You can select between the four different tracks (Web Development, UX/UI, Data Science, and AI). We only offer personalized tracks for the local programs, to fill out the survey is only needed there.
