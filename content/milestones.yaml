@@ -27,9 +27,9 @@
   name: Deadline Registration for Project Phase
   date: "2020-03-02T23:00:00+01:00"
   description: |
-     Last Call! Today is the DEADLINE for register to the #codeathome Project Phase!
+    Last Call! Today is the DEADLINE for register to the #codeathome Project Phase!
 
-     **DEADLINE Registration Project Phase: 02 March 2021, 11 PM CET (UTC/GMT +01:00)!**
+    **DEADLINE Registration Project Phase: 02 March 2021, 11 PM CET (UTC/GMT +01:00)!**
 
      Please check out our #codeathome Project Registration Guide Notion Page for more information and a step-by-step guide on how to fill out the registration form correct.
 
@@ -39,15 +39,12 @@
 
   todos:
   - name: Deadline Registration for Project Phase
-    resources:
-      - title: Registration Form
-        type: feedback
-        url: 
+
 
 - slug: 50percent
-   name: 50% of the online-learning done
-   date: "2020-03-01T23:59:59+01:00"
-   description: |
+  name: 50% of the online-learning done
+  date: "2020-03-01T23:59:59+01:00"
+  description: |
      Until today we encourage you to have finished **50%** of the online-learning in edyoucated.
 
      *Don't worry if you are behind, this is only a recommendation from our side.*
@@ -56,9 +53,9 @@
   - name: 50% of the online-learning completed
 
 - slug: 75percent
-   name: 75% of the online-learning done
-   date: "2020-03-15T23:59:59+01:00"
-   description: |
+  name: 75% of the online-learning done
+  date: "2020-03-15T23:59:59+01:00"
+  description: |
      Until today we encourage you to have finished **75%** of the online-learning in edyoucated.
 
      *Don't worry if you are behind, this is only a recommendation from our side.*
