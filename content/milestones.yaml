@@ -25,7 +25,7 @@
 
 - slug: project registration
   name: Deadline Registration for Project Phase
-  date: "2020-03-02T23:00:00+01:00"
+  date: "2021-03-02T23:00:00+01:00"
   description: |
     Last Call! Today is the DEADLINE for register to the #codeathome Project Phase!
 
@@ -43,7 +43,7 @@
 
 - slug: 50percent
   name: 50% of the online-learning done
-  date: "2020-03-01T23:59:59+01:00"
+  date: "2021-03-01T23:59:59+01:00"
   description: |
      Until today we encourage you to have finished **50%** of the online-learning in edyoucated.
 
@@ -54,7 +54,7 @@
 
 - slug: 75percent
   name: 75% of the online-learning done
-  date: "2020-03-15T23:59:59+01:00"
+  date: "2021-03-15T23:59:59+01:00"
   description: |
      Until today we encourage you to have finished **75%** of the online-learning in edyoucated.
 
@@ -65,7 +65,7 @@
 
 - slug: project-summision
   name: Project Submission
-  date: "2020-10-31T23:59:59+02:00"
+  date: "2021-10-31T23:59:59+02:00"
   description: |
      You did some nice work and now is the time to show off! After you've finished your project, today you will officially submit it to us for review.
 
