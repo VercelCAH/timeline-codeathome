@@ -23,63 +23,60 @@
   todos:
   - name: 25% of the online-learning completed
 
-# - slug: project registration
-#   name: Deadline Registration for Project Phase
-#   date: "2020-09-29T23:00:00+02:00"
-#   description: |
-#     Last Call! Today is the DEADLINE for register to the #codeathome Project Phase!
+- slug: project registration
+  name: Deadline Registration for Project Phase
+  date: "2021-03-02T23:00:00+01:00"
+  description: |
+    Last Call! Today is the DEADLINE for register to the #codeathome Project Phase!
 
-#     **DEADLINE Registration Project Phase: 29 September 2020, 11 PM CEST!**
+    **DEADLINE Registration Project Phase: 02 March 2021, 11 PM CET (UTC/GMT +01:00)!**
 
-#     Please check out our #codeathome Project Registration Guide Notion Page for more information and a step-by-step guide on how to fill out the registration form correct.
+     Please check out our #codeathome Project Registration Guide Notion Page for more information and a step-by-step guide on how to fill out the registration form correct.
 
-#     Our #codeathome Project Phase will take place from 05 October until 31 October 2020.
+     Our #codeathome Project Phase will take place from 05 March until 31 March 2021.
 
-#     *More information will follow! Check out our #codeathome Slack Channels...*
+     *More information will follow! Check out our #codeathome Slack announcement channel...*
 
-#   todos:
-#   - name: Deadline Registration for Project Phase
-#     resources:
-#       - title: Registration Form
-#         type: feedback
-#         url: 
+  todos:
+  - name: Deadline Registration for Project Phase
 
-# - slug: 50percent
-#   name: 50% of the online-learning done
-#   date: "2020-10-01T23:59:59+02:00"
-#   description: |
-#     Until today we encourage you to have finished **50%** of the online-learning in edyoucated.
 
-#     *Don't worry if you are behind, this is only a recommendation from our side.*
+- slug: 50percent
+  name: 50% of the online-learning done
+  date: "2021-03-01T23:59:59+01:00"
+  description: |
+     Until today we encourage you to have finished **50%** of the online-learning in edyoucated.
 
-#   todos:
-#   - name: 50% of the online-learning completed
+     *Don't worry if you are behind, this is only a recommendation from our side.*
 
-# - slug: 75percent
-#   name: 75% of the online-learning done
-#   date: "2020-10-15T23:59:59+02:00"
-#   description: |
-#     Until today we encourage you to have finished **75%** of the online-learning in edyoucated.
+  todos:
+  - name: 50% of the online-learning completed
 
-#     *Don't worry if you are behind, this is only a recommendation from our side.*
+- slug: 75percent
+  name: 75% of the online-learning done
+  date: "2021-03-15T23:59:59+01:00"
+  description: |
+     Until today we encourage you to have finished **75%** of the online-learning in edyoucated.
 
-#   todos:
-#   - name: 75% of the online-learning completed
+     *Don't worry if you are behind, this is only a recommendation from our side.*
 
-# - slug: project-summision
-#   name: Project Submission
-#   date: "2020-10-31T23:59:59+02:00"
-#   description: |
-#     You did some nice work and now is the time to show off! After you've finished your project, today you will officially submit it to us for review.
+  todos:
+  - name: 75% of the online-learning completed
 
-#     **The deadline for submitting your project is the 31th October 2020, 11 PM Cest!**
+- slug: project-summision
+  name: Project Submission
+  date: "2021-03-31T23:59:59+02:00"
+  description: |
+     You did some nice work and now is the time to show off! After you've finished your project, today you will officially submit it to us for review.
 
-#     **Submit your project via our Submission Typeform.**
+     **The deadline for submitting your project is the 31th March 2021, 11 PM Cest (GMT/UTC +02:00)!**
 
-#     There you can also add a presentation video, powerpoint, demo, prototype, etc. (depending on your solution). You can also submit a **link to your GitHub repository.** This is not only beneficial for us but also for you, since you can directly refer to your work later on when you want to show it off to anyone.
-#     If you have any further questions we encourage you to read carefully our Project Guide including **[the Submission notion page](https://www.notion.so/techlabs/codeathome-Project-Submission-ebdc9c9a1ac74c83b295d256a835118e)**.
+     **Submit your project via our Submission Typeform (to be published soon).**
 
-#     The Project Submission Typeform must be submitted by **every team member**.
+     #There you can also add a presentation video, powerpoint, demo, prototype, etc. (depending on your solution). You can also submit a **link to your GitHub repository.** This is not only beneficial for us but also for you, since you can directly refer to your work later on when you want to show it off to anyone.
+     #If you have any further questions we encourage you to read carefully our Project Guide including **[the Submission notion page](https://www.notion.so/techlabs/codeathome-Project-Submission-ebdc9c9a1ac74c83b295d256a835118e)**.
 
-#   todos:
-#   - name: Project Submission
+     The Project Submission Typeform must be submitted by **every team member**.
+
+  todos:
+  - name: Project Submission
