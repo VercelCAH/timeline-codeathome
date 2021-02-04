@@ -23,10 +23,10 @@
   todos:
   - name: 25% of the online-learning completed
 
- - slug: project registration
-   name: Deadline Registration for Project Phase
-   date: "2020-03-02T23:00:00+01:00"
-   description: |
+- slug: project registration
+  name: Deadline Registration for Project Phase
+  date: "2020-03-02T23:00:00+01:00"
+  description: |
      Last Call! Today is the DEADLINE for register to the #codeathome Project Phase!
 
      **DEADLINE Registration Project Phase: 02 March 2021, 11 PM CET (UTC/GMT +01:00)!**
@@ -37,14 +37,14 @@
 
      *More information will follow! Check out our #codeathome Slack announcement channel...*
 
-   todos:
-   - name: Deadline Registration for Project Phase
-     resources:
-       - title: Registration Form
-         type: feedback
-         url: 
+  todos:
+  - name: Deadline Registration for Project Phase
+    resources:
+      - title: Registration Form
+        type: feedback
+        url: 
 
- - slug: 50percent
+- slug: 50percent
    name: 50% of the online-learning done
    date: "2020-03-01T23:59:59+01:00"
    description: |
@@ -52,10 +52,10 @@
 
      *Don't worry if you are behind, this is only a recommendation from our side.*
 
-   todos:
-   - name: 50% of the online-learning completed
+  todos:
+  - name: 50% of the online-learning completed
 
- - slug: 75percent
+- slug: 75percent
    name: 75% of the online-learning done
    date: "2020-03-15T23:59:59+01:00"
    description: |
@@ -63,13 +63,13 @@
 
      *Don't worry if you are behind, this is only a recommendation from our side.*
 
-   todos:
-   - name: 75% of the online-learning completed
+  todos:
+  - name: 75% of the online-learning completed
 
- - slug: project-summision
-   name: Project Submission
-   date: "2020-10-31T23:59:59+02:00"
-   description: |
+- slug: project-summision
+  name: Project Submission
+  date: "2020-10-31T23:59:59+02:00"
+  description: |
      You did some nice work and now is the time to show off! After you've finished your project, today you will officially submit it to us for review.
 
      **The deadline for submitting your project is the 31th March 2021, 11 PM Cest (GMT/UTC +02:00)!**
@@ -81,5 +81,5 @@
 
      The Project Submission Typeform must be submitted by **every team member**.
 
-   todos:
-   - name: Project Submission
+  todos:
+  - name: Project Submission
