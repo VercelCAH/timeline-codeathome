@@ -21,7 +21,7 @@
   forms: []
   resources:
 
-  - title: "Zoom Meet"
-    description: Link to the Meeting.
-    type: meeting
+  - title: "Slides"
+    description: Slides of the event.
+    type: slides
     url: NBY
