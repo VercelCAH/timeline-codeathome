@@ -20,8 +20,8 @@
   forms: []
   resources:
 
-  - title: "Zoom Meet"
-    description: Link to the Meeting.
+  - title: ""
+    description: 
     type: meeting
-    url: C2R
+    url: 
 
