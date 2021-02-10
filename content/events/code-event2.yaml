@@ -1,0 +1,29 @@
+---
+  slug: code-event-2
+  name: Web Dev Coding Event 2 of 2
+  date: "2021-03-03T20:00:00+01:00"
+  description: |
+    Do you want to learn how to apply your newly learned WebDev skills and extend your personal web page?
+    
+    This is the second and last live Coding Event. We will start right where we left off after the first Coding Event - to get the opportunity to enhance your personal web page and code along again, we recommend you to also participate in the first live Coding Event. The second session will also have a duration of around 45 minutes, followed by a short Q&A for further questions. 
+    
+    The content of this event will focus on finishing your web page with HTML and CSS. Furthermore, we will introduce some JavaScript which you should have heard about until now in your edyoucated WebDev track.
+
+    The content of the first event will focus on HTML and CSS. We will cover the following topics: 
+        
+    - Finishing the basic structure
+    - Smooth scrolling to different sections
+    - Functionality of the contact form
+   
+
+
+
+    
+  forms: []
+  resources: 
+
+  - title: "Slides"
+    description: Slides will be published after the event.
+    type: slides
+    url: 
+
