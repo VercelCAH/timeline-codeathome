@@ -11,10 +11,10 @@
 
  
   forms: []
-  #resources:
+  resources:
 
-  #- title: "Zoom Meet"
-  #  description: Link to the Meeting.
-  #  type: meeting
-  #  url: V53
+  - title: ""
+    description: Link to the Meeting.
+    type: meeting
+    url: V53
 
