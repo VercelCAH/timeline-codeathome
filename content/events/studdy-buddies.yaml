@@ -20,8 +20,8 @@
   forms: []
   resources:
 
-  - title: ""
-    description: 
+  - title: "Zoom Meeting"
+    description: Please find the Link to this Meeting in our Slack Channel
     type: meeting
     url: 
 
