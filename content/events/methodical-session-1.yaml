@@ -14,7 +14,7 @@
   resources:
 
   - title: ""
-    description: Link to the Meeting.
+    description: 
     type: meeting
     url: V53
 
