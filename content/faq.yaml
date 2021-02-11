@@ -28,16 +28,17 @@
   - title: When should I start working on the online courses? Are there any fix lessons? 
     content: |
       We recommend to start as early as possible to be able to finish your track in approximately 6 weeks, in order to have enough time to work on your project. 
-      There aren't any regular lessons, you have full flexibility and control over your learning time and can decide when you want to work on your learning track(s).
+      
+      **There aren't any regular lessons**, you have full flexibility and control over your learning time and can decide when you want to work on your learning track(s).
   - title: Is there a Deadline to complete the tracks? 
     content: |
-      You have to complete at least 75% of your online-learning track(s) by the 31st of March 2021 to get a certificate.
+      You have to **complete at least 75% of your online-learning track(s)** by the **31st of March 2021** to get a certificate.
   - title: How much time do I have to study?
     content: |
       We recommend to study 6-10 hours per week on your track. However, maybe you need some more time to exercise or to do some additional tasks. 
   - title: Is it possible to do more than one track within the nine weeks? 
     content: |
-      Theoretically, you can do all four tracks if you have enough time. However, we recommend focusing on one track at a time in order to deepen your knowledge and understanding of the topic. 
+      Theoretically, you can do all four tracks if you have enough time. However, we recommend **focusing on one track at a time** in order to deepen your knowledge and understanding of the topic. 
       Join us again in the next #codeathome Bootcamp batch to develop your digital skills in a different field! 
       
       **[Subscribe to our Newsletter](https://www.notion.so/techlabs/Program-Guide-1ef441c0ba41490aab4ba502297c62fc)** and stay informed!
@@ -56,22 +57,27 @@
   - title: How will I get to know the other participants? 
     content: |
       We have a vibrant slack community in which you will be invited. 
-      Furthermore, you will be grouped with 3-5 other Techies from your main track. In your TrackStudy-Buddy Group, you will be able to discuss your track, clarify questions, and exchange about your progress. Your Buddies will also be your team for the project phase. By asking you to be part of a group, we encourage you to use this Bootcamp not only to learn tech skills but also to interact with people from all around the globe and build friendships beyond borders. This is your chance to connect with like-minded people and keep each other motivated. Your TrackStudy-Buddies group will be your biggest help for the following weeks and make the experience even more memorable.
+      Furthermore, you will be grouped with 3-5 other Techies from your main track. In your TrackStudy-Buddy Group, you will be able to discuss your track, clarify questions, and exchange about your progress. 
+      Your Buddies will also be your team for the project phase. By asking you to be part of a group, we encourage you to use this Bootcamp not only to learn tech skills but also to interact with people from all around the globe and build friendships beyond borders 🌎. 
+      This is your chance to connect with like-minded people and keep each other motivated. Your TrackStudy-Buddies group will be your biggest help for the following weeks and make the experience even more memorable.
   - title: Who are my TrackStudy-Buddies and when will I meet them?
     content: |
-      We will pair you with 3-5 other Techies studying the same main track during the end of the first week. In the second week of the bootcamp you will have the opportunity to meet your buddies during the "Meet your TrackStudy-Buddies" event. Together with your TrackStudy-Buddies, you can study, have remote coffees, and work together during the project phase.
+      We will pair you with 3-5 other Techies studying the same main track during the end of the first week. 
+      In the second week of the bootcamp you will have the opportunity to meet your buddies during the Meet your TrackStudy-Buddies event. 
+      
+      Together with your TrackStudy-Buddies, you can study, have remote coffees, and work together during the project phase.
   - title: Are the Tracks still accessible after the nine weeks?
     content: |
-      Yes, you will have access to edyoucated after the #codeathome Bootcamp. But have in mind that we recommend finish your track(s) by 31st March.  
+      Yes, you will have access to edyoucated after the #codeathome Bootcamp. But you will only receive the official bootcamp certificate if you have finished your online-learning track(s) by 31st March.  
   - title: Will I get a certificate for each track?
     content: |
-      You will get a certificate for each completed track (75%). Also you have to hand in one solution with your project team - not one for each track, just one for all!
+      You will get a certificate for **each completed track (75%)**. Also you have to hand in **one solution with your project team** - not one for each track, just one for all!
 
 - title: Project Phase  from 8th of March - 31st of March 2021
   questions:
   - title: What is the Project Phase?
     content: |
-      During the Project Phase (08 March - 31 March) , you will work in a diverse team (3-5 people) and solve a societal challenge with your newly developed tech skills. You have the chance to consolidate and apply what you have learned so far. This is where you will definitely get in touch with your fellow learners, learn from each other and build a great product!
+      During the Project Phase (08 March - 31 March), you will work in a diverse team (3-5 people) and solve a societal challenge with your newly developed tech skills. You have the chance to consolidate and apply what you have learned so far. This is where you will definitely get in touch with your fellow learners, learn from each other and build a great product!
       
       For more information check out our **[#codeathome Project Guide](https://www.notion.so/techlabs/codeathome-Project-Guide-119f2e2ac19842569bf6ca862abfe3cd)**
   - title: When and how can I find my team mates?
@@ -79,12 +85,13 @@
       All Techies will be grouped with 3-5 fellow Techies from the same learning track in a private Slack channel. Those will be your TrackStudy-Buddies for the Learning Phase as well as your team for the Project Phase. Thus, you will not be able to choose your group independently. However, if your group is deciding to not participate in the project phase you can contact the CodeAtHome Managementteam on Slack. You will be allocated to a new group to ensure you the possibility to finish the Bootcamp. For more detailed information regarding the TrackStudy-Buddies check out the question “Who are my TrackStudy-Buddies and when will I meet them?” which is allocated above.
   - title: Is the project phase mandatory?
     content: |
-      To receive the **#codeathome Bootcamp Certificate**, you must have to:
-      - Complete 75% of the learning track on edyoucated (by the 31st of March)
+      To receive the official **#codeathome Bootcamp Certificate**, you must have to:
+      - Complete 75% of the learning online-learning track on edyoucated (by the 31st of March)
       - Submit a solution with your project team (also by the 31st of March)
   - title: How much time do I have to block?
     content: |
-      To ensure successful outcomes, we kindly ask you to already block some time during the project phase to work on your project and meet virtually with your team. We estimate that you need between 5 and 10 hours per week depending on your chosen project topic.  
+      To ensure successful outcomes, we kindly ask you to already block some time during the project phase to work on your project and meet virtually with your team. 
+      We estimate that you need between 5 and 10 hours per week depending on your chosen project topic.  
   - title: Are my tech skills sufficient when the Project Phase starts?
     content: |
       Totally! We ensure a good mixture of advanced techies and newbies in the teams. In addition, TechLabs Mentors will support you during this phase. 
@@ -93,7 +100,8 @@
       Yes, of course! We encourage you to have at least 60% of your online-learning done when the Project Phase starts. You can continue learning while working with your project team. We recommend to finish online-learning as early as possible, so you can fully concentrate on your project work and the submission in the last weeks.
   - title: Why does the Project Phase start next to the online-learning?
     content: |
-      We want to give you and your team enough time for working on your project, get to know each other, and to set up a remote project working environment. We recommend finishing the online-learning until week 6 so that you can focus on the project work henceforth.
+      We want to give you and your team enough time for working on your project, get to know each other, and to set up a remote project working environment. 
+      We recommend finishing the online-learning until week 6 so that you can focus on the project work henceforth.
   - title: How should we start and find a project idea?
     content: |
       We will give you an overall subject for the Project Phase, as a frame. Together with your team, you will come up with an idea: for this reason we will conduct an Ideation workshop, where we will show you some tools and methods on how to find ideas and how to select the most promising one for your project. With your project idea, you and your team mates can register for the Project Phase in week 5. We will keep you informed about the timing and deadlines in our Slack announcements channel.
