@@ -19,10 +19,16 @@
       
   - title: Am I supposed to receive a personalized track? Why is there a survey?
     content: |
-      For the #codeathome Bootcamp, we don't offer any tailored tracks due to the intense and relatively short learning phase. You can select between the four different tracks (Web Development, UX/UI, Data Science, and AI). We only offer personalized tracks for the local programs, to fill out the survey is only needed there.
+      For the #codeathome Bootcamp, we don't offer any tailored tracks due to the intense and relatively short learning phase.
+      Thus, you don't have to fill out the edyoucated survey.
+
+      You can just select between the four different tracks (Web Development, UX/UI, Data Science with Python, and AI). 
+      
+      Personalized tracks are only offered in our the local Digital Shaper programs, to fill out the survey is only needed there.
   - title: When should I start working on the online courses? Are there any fix lessons? 
     content: |
-      We recommend to start as early as possible to be able to finish your track in approximately 6 weeks, in order to have enough time to work on your project. There aren't any regular lessons, you have full flexibility and control over your learning time and can decide when you want to work on your learning track(s).
+      We recommend to start as early as possible to be able to finish your track in approximately 6 weeks, in order to have enough time to work on your project. 
+      There aren't any regular lessons, you have full flexibility and control over your learning time and can decide when you want to work on your learning track(s).
   - title: Is there a Deadline to complete the tracks? 
     content: |
       You have to complete at least 75% of your online-learning track(s) by the 31st of March 2021 to get a certificate.
@@ -31,13 +37,26 @@
       We recommend to study 6-10 hours per week on your track. However, maybe you need some more time to exercise or to do some additional tasks. 
   - title: Is it possible to do more than one track within the nine weeks? 
     content: |
-      Theoretically, you can do all four tracks if you have enough time. However, we recommend focusing on one track at a time in order to deepen your knowledge and understanding of the topic. Join us again in the next #codeathome Bootcamp batch to develop your digital skills in a different field! **Sign up for the newsletter and stay informed.**
+      Theoretically, you can do all four tracks if you have enough time. However, we recommend focusing on one track at a time in order to deepen your knowledge and understanding of the topic. 
+      Join us again in the next #codeathome Bootcamp batch to develop your digital skills in a different field! 
+      
+      **[Subscribe to our Newsletter](https://www.notion.so/techlabs/Program-Guide-1ef441c0ba41490aab4ba502297c62fc)** and stay informed!
+     
   - title: Why do I had to choose a main track? I thought I could study more than one track? 
     content: |
-      Theoretically, you can study more than one track, if you have enough time. However, you have to choose one track as your main track. Within the 9 weeks you have to complete your main track to get our bootcamp certificate. Furthermore, you will be paired by us with 3-5 other Techies studying the same main track (your TrackStudy-Buddy group and future project group). On our plattform edcoucated you can learn all other available tracks, next to your main track. However, it is not possible to tackle two or more projects within our bootcamp. You will have the chance to confirm or change your initial main track selection from the Application within the first Week (Bootcamp Check-In Form).
+      We want you to focus on one field of study at a time. Thus, you have to decide which track you want to fucuse on: This is your Main Track.
+      Within the 9 weeks of our bootcamp you have to complete your main track to get our official bootcamp certificate.
+      Furthermore, you will be paired by us with 3-5 other Techies studying the same main track as you (Your TrackStudy-Buddy group and future project group).
+      
+      If you are not happy with your initial Main Track selection, you can change your Main Track within the first Week and by filling out our Bootcamp Check-In form.
+      
+      Theoretically, you can study more than one track, if you have enough time. On our plattform edcoucated you can learn all other available tracks, next to your main track. 
+      However, it is not possible to tackle two or more projects within our bootcamp. 
+      
   - title: How will I get to know the other participants? 
     content: |
-      We have a vibrant slack community in which you will be invited. Furthermore, you will be grouped with 3-5 other Techies from your main track. In your TrackStudy-Buddy Group, you will be able to discuss your track, clarify questions, and exchange about your progress. Your Buddies will also be your team for the project phase. By asking you to be part of a group, we encourage you to use this Bootcamp not only to learn tech skills but also to interact with people from all around the globe and build friendships beyond borders. This is your chance to connect with like-minded people and keep each other motivated. Your TrackStudy-Buddies group will be your biggest help for the following weeks and make the experience even more memorable.
+      We have a vibrant slack community in which you will be invited. 
+      Furthermore, you will be grouped with 3-5 other Techies from your main track. In your TrackStudy-Buddy Group, you will be able to discuss your track, clarify questions, and exchange about your progress. Your Buddies will also be your team for the project phase. By asking you to be part of a group, we encourage you to use this Bootcamp not only to learn tech skills but also to interact with people from all around the globe and build friendships beyond borders. This is your chance to connect with like-minded people and keep each other motivated. Your TrackStudy-Buddies group will be your biggest help for the following weeks and make the experience even more memorable.
   - title: Who are my TrackStudy-Buddies and when will I meet them?
     content: |
       We will pair you with 3-5 other Techies studying the same main track during the end of the first week. In the second week of the bootcamp you will have the opportunity to meet your buddies during the "Meet your TrackStudy-Buddies" event. Together with your TrackStudy-Buddies, you can study, have remote coffees, and work together during the project phase.
