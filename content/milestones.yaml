@@ -24,18 +24,22 @@
   - name: 25% of the online-learning completed
 
 - slug: project registration
-  name: Deadline Registration for Project Phase
+  name: Project Registration Deadline
   date: "2021-03-02T23:00:00+01:00"
   description: |
-    Last Call! Today is the DEADLINE for register to the #codeathome Project Phase!
+    **Last Call!** Today is the deadline for register your project idea!
+    
+    The Project Registration Form will close at:
+    ** 02 March 2021**
+    **11 PM CET (UTC/GMT +01:00)!**
 
-    **DEADLINE Registration Project Phase: 02 March 2021, 11 PM CET (UTC/GMT +01:00)!**
-
-     Please check out our #codeathome Project Registration Guide Notion Page for more information and a step-by-step guide on how to fill out the registration form correct.
-
-     Our #codeathome Project Phase will take place from 05 March until 31 March 2021.
-
-     *More information will follow! Check out our #codeathome Slack announcement channel...*
+     The #codeathome Project Phase will take place from 05 March until 31 March 2021.
+     
+     
+     Please check out our [#codeathome Project Guide](https://www.notion.so/techlabs/codeathome-Project-Guide-119f2e2ac19842569bf6ca862abfe3cd) for more information and a step-by-step guide on how to fill out the registration form correct.
+     *More information will follow! Stay tuned and check out our #codeathome Slack announcement channel...*
+     
+     
 
   todos:
   - name: Deadline Registration for Project Phase
@@ -67,16 +71,23 @@
   name: Project Submission
   date: "2021-03-31T23:59:59+02:00"
   description: |
+     **Last Call!** Today is the deadline for submission of your team project!
      You did some nice work and now is the time to show off! After you've finished your project, today you will officially submit it to us for review.
+     
+     The Project Submission Form will close at:
+     ** 31 March 2021**
+     **11 PM CEST (UTC/GMT +02:00)!**
+     
+     Every team member has to fill out the submission form!
 
-     **The deadline for submitting your project is the 31th March 2021, 11 PM Cest (GMT/UTC +02:00)!**
+     In the submission form you can add your presentation video, and additional material like a powerpoint, demo, prototype, etc. (depending on your solution). 
+     You can also submit a link to your GitHub repository. This is not only beneficial for us but also for you, since you can directly refer to your work later on when you want to show it off to anyone.
+          
+     Please check out our [#codeathome Project Guide](https://www.notion.so/techlabs/codeathome-Project-Guide-119f2e2ac19842569bf6ca862abfe3cd) for more information and a step-by-step guide on how to fill out the registration form correct.
+     *More information will follow! Stay tuned and check out our #codeathome Slack announcement channel...*
+     *Submission Typeform will be published soon.*
 
-     **Submit your project via our Submission Typeform (to be published soon).**
-
-     #There you can also add a presentation video, powerpoint, demo, prototype, etc. (depending on your solution). You can also submit a **link to your GitHub repository.** This is not only beneficial for us but also for you, since you can directly refer to your work later on when you want to show it off to anyone.
-     #If you have any further questions we encourage you to read carefully our Project Guide including **[the Submission notion page](https://www.notion.so/techlabs/codeathome-Project-Submission-ebdc9c9a1ac74c83b295d256a835118e)**.
-
-     The Project Submission Typeform must be submitted by **every team member**.
+     
 
   todos:
   - name: Project Submission
