@@ -3,14 +3,17 @@
   questions:
   - title: Where can I find the courses?
     content: |
-      See #codeathome announcements or check your email for the **INVITATION LINK to our learning platform edyoucated**. Always use the same email for all our tools!
+      In our #codeathome announcements channel in Slack you can find the **Invitation Link to our learning platform edyoucated**. You have to use this link in order to be allocated to our Bootcamp Team.
       
-      Please select #codeathome Bootcamp as your location and select one of the following tracks on edyoucated:
+      Please check out our **[#codeathome Program Guide](https://www.notion.so/techlabs/Program-Guide-1ef441c0ba41490aab4ba502297c62fc)** for step-by-step guidelines on how to sign up.
+      Always use the same email for all our tools!
+
+      We only offer the following tracks on edyoucated:
 
       - **TechLabs | AI | 2021**
       - **TechLabs | Data Science Python | 2021**
       - **TechLabs | UX | 2021**
-      - **TechLabs | Web Development | 2021 **
+      - **TechLabs | Web Development | 2021**
       
       We do not offer Data Science with R in our remote program!
       
@@ -50,7 +53,8 @@
   - title: What is the Project Phase?
     content: |
       During the Project Phase (08 March - 31 March) , you will work in a diverse team (3-5 people) and solve a societal challenge with your newly developed tech skills. You have the chance to consolidate and apply what you have learned so far. This is where you will definitely get in touch with your fellow learners, learn from each other and build a great product!
-      For more information check out our  **[#codeathome Project Guide](https://www.notion.so/techlabs/codeathome-Project-Guide-119f2e2ac19842569bf6ca862abfe3cd)**
+      
+      For more information check out our **[#codeathome Project Guide](https://www.notion.so/techlabs/codeathome-Project-Guide-119f2e2ac19842569bf6ca862abfe3cd)**
   - title: When and how can I find my team mates?
     content: |
       All Techies will be grouped with 3-5 fellow Techies from the same learning track in a private Slack channel. Those will be your TrackStudy-Buddies for the Learning Phase as well as your team for the Project Phase. Thus, you will not be able to choose your group independently. However, if your group is deciding to not participate in the project phase you can contact the CodeAtHome Managementteam on Slack. You will be allocated to a new group to ensure you the possibility to finish the Bootcamp. For more detailed information regarding the TrackStudy-Buddies check out the question “Who are my TrackStudy-Buddies and when will I meet them?” which is allocated above.
@@ -75,7 +79,7 @@
     content: |
       We will give you an overall subject for the Project Phase, as a frame. Together with your team, you will come up with an idea: for this reason we will conduct an Ideation workshop, where we will show you some tools and methods on how to find ideas and how to select the most promising one for your project. With your project idea, you and your team mates can register for the Project Phase in week 5. We will keep you informed about the timing and deadlines in our Slack announcements channel.
 
-      For inspiration check out our   **[#codeathome Ideation&Inspiration](https://www.notion.so/techlabs/codeathome-Project-Ideation-Inspiration-69f2dc21f7104628bc3201aa5c092365)** and the **[TechLabs Ideation Guide](https://www.notion.so/techlabs/Ideation-Guide-7f59cf768f2a45c4a86a02b29d121cd9)**
+      For inspiration check out our **[#codeathome Ideation&Inspiration](https://www.notion.so/techlabs/codeathome-Project-Ideation-Inspiration-69f2dc21f7104628bc3201aa5c092365)** and the **[TechLabs Ideation Guide](https://www.notion.so/techlabs/Ideation-Guide-7f59cf768f2a45c4a86a02b29d121cd9)**
   - title: Will we get any help during the time?
     content: |
       Yes, our mentors are still there for you and will support you and your project team.
