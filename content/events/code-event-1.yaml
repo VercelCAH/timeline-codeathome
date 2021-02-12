@@ -19,8 +19,8 @@
   forms: []
   resources: 
 
-  - title: "Zoom Meet"
-    description: Link to the Meeting.
-    type: meeting
-    url: BN9
+  - title: "Slides"
+    description: Slides will be published after the event.
+    type: slides
+    url: 
 
