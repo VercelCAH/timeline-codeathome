@@ -70,14 +70,16 @@
   - name: 75% of the online-learning completed
 
 - slug: project-summision
-  name: Project Submission
+  name: Project Submission Deadline
   date: "2021-03-31T23:59:59+02:00"
   description: |
      **Last Call!** Today is the deadline for submission of your team project!
      You did some nice work and now is the time to show off! After you've finished your project, today you will officially submit it to us for review.
      
      The Project Submission Form will close at:
+     
      **31 March 2021**
+     
      **11 PM CEST (UTC/GMT +02:00)!**
      
      Every team member has to fill out the submission form!
