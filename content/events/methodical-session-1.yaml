@@ -13,8 +13,8 @@
   forms: []
   resources:
 
-  - title: "Zoom Meeting"
-    description: Please find the Zoom link in our Slack Channel
-    type: meeting
+  - title: "Slides"
+    description: Slides will be published soon.
+    type: slides
     url: 
 
