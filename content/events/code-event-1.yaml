@@ -19,8 +19,8 @@
   forms: []
   resources: 
 
-  - title: "Slides"
-    description: Slides will be published after the event.
-    type: slides
+  - title: "Zoom Meeting"
+    description: Please find the Zoom link in our Slack Channel
+    type: meeting
     url: 
 
