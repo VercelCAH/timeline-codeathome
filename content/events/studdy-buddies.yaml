@@ -21,7 +21,7 @@
   resources:
 
   - title: "Slides"
-    description: Slides will be published soon.
+    description: Slides of the event.
     type: slides
     url: 
 
