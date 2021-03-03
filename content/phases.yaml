@@ -15,7 +15,7 @@
     startWeekNum: 6
     duration: 3
 
-  - title: Project Ideation
+  - title: Online-Learning + Project Ideation
     description: |
       You learn about methods and tools to come up with project ideas and how to settle on one  project idea as a group.
       
@@ -24,7 +24,7 @@
     startWeekNum: 9
     duration: 1
 
-  - title: Project Registration
+  - title: Online-Learning + Project Registration
     description: |
       You team up as a group of 3-5 Techies and register for our #codeathome Project Phase.
 
